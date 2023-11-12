@@ -12,10 +12,9 @@ Dự án này tập trung vào việc dự đoán giá nhà tại Bắc Kinh b�
 
 ## Cài Đặt
 
-    ```bash
-    git clone https://github.com/thanhphuc273/House-price-prediction-in-Beijing/tree/master.git
-    cd House-price-prediction-in-Beijing
-    ```
+git clone https://github.com/thanhphuc273/House-price-prediction-in-Beijing.git
+cd House-price-prediction-in-Beijing
+
 ## Dữ Liệu
 
 Giá nhà ở Bắc Kinh từ năm 2011 đến năm 2017, lấy từ Lianjia.com
