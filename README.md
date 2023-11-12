@@ -11,9 +11,10 @@ Dự án này tập trung vào việc dự đoán giá nhà tại Bắc Kinh b�
 - Jupyter Notebook hoặc Google Colab
 
 ## Cài Đặt
-
-- git clone https://github.com/thanhphuc273/House-price-prediction-in-Beijing.git
-- cd House-price-prediction-in-Beijing
+```bash
+git clone https://github.com/thanhphuc273/House-price-prediction-in-Beijing.git
+cd House-price-prediction-in-Beijing
+```
 
 ## Dữ Liệu
 
