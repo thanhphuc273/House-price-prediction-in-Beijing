@@ -18,7 +18,9 @@ Dự án này tập trung vào việc dự đoán giá nhà tại Bắc Kinh b�
     ```
 ## Dữ Liệu
 
-Mô tả về nguồn dữ liệu và cách bạn đã tiền xử lý dữ liệu có thể đặt ở đây.
+Giá nhà ở Bắc Kinh từ năm 2011 đến năm 2017, lấy từ Lianjia.com
+Nó bao gồm URL, ID, Lng, Lat, CommunityID, TradeTime, DOM (ngày trên thị trường), Người theo dõi, Tổng giá, Giá, Quảng trường, Phòng khách, số phòng khách, Nhà bếp và Phòng tắm, Loại tòa nhà, Thời gian xây dựng. điều kiện cải tạo, cấu trúc tòa nhà, Tỷ lệ thang (lưa tỷ lệ giữa số lượng cư dân trên cùng một tầng và số thang máy thang. Nó mô tả trung bình một cư dân có bao nhiêu thang thang), thang máy, Quyền sở hữu trong năm năm (Nó liên quan đến chính sách mua nhà bị hạn chế của Trung Quốc), Tàu điện ngầm, Quận, Giá trung bình của Cộng đồng.
+Hầu hết dữ liệu được giao dịch trong năm 2011-2017, một số trong số chúng được giao dịch vào tháng 1 năm 2018, và một số thậm chí còn sớm hơn (2010,2009)
 
 ## Chạy Mô Hình
 
