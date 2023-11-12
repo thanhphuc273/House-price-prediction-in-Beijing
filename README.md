@@ -12,8 +12,8 @@ Dự án này tập trung vào việc dự đoán giá nhà tại Bắc Kinh b�
 
 ## Cài Đặt
 
-git clone https://github.com/thanhphuc273/House-price-prediction-in-Beijing.git
-cd House-price-prediction-in-Beijing
+- git clone https://github.com/thanhphuc273/House-price-prediction-in-Beijing.git
+- cd House-price-prediction-in-Beijing
 
 ## Dữ Liệu
 
